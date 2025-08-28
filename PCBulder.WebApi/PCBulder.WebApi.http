@@ -1,0 +1,6 @@
+@PCBulder.WebApi_HostAddress = http://localhost:5194
+
+GET {{PCBulder.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
